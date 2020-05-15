@@ -1,5 +1,7 @@
-package snake;// comment
+package snake;
 
 public class Game {
+	
+	
 	
 }
