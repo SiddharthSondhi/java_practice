@@ -1,7 +1,7 @@
 package snake.display;
 
-import java.awt.Canvas;
 import java.awt.Dimension;
+import java.awt.Canvas;
 
 import javax.swing.JFrame;
 

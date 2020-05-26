@@ -62,7 +62,6 @@ public class Pong implements Runnable{
 		bs = window.getCanvas().getBufferStrategy();
 		
 		Graphics g = bs.getDrawGraphics(); 
-		g.clearRect(0, 0, width, height);
 		
 		//////////////////////////////////////////// draw graphics
 		
