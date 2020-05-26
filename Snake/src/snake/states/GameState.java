@@ -9,7 +9,6 @@ public class GameState extends State{
 
 	public GameState(Handler handler) {
 		super(handler);
-		
 	}
 
 	@Override
